@@ -1,0 +1,13 @@
+test result for full-training using dataset wiki_csai selected
+open_qa accuracy: 0.9231578947368421
+open_qa f1: 0.8945207042092855
+reddit_eli5 accuracy: 0.9778676470588236
+reddit_eli5 f1: 0.9702941078526927
+finance accuracy: 0.8667061611374408
+finance f1: 0.8616401003273206
+medicine accuracy: 0.9729206963249516
+medicine f1: 0.9727812876052949
+wiki_csai accuracy: 0.9910979228486647
+wiki_csai f1: 0.9910825328781985
+all accuracy: 0.9639597472501755
+all f1: 0.9588981375189598

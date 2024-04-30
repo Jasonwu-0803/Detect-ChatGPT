@@ -1,0 +1,13 @@
+test result for full-training using dataset finance selected
+open_qa accuracy: 0.8631578947368421
+open_qa f1: 0.7781793101466352
+reddit_eli5 accuracy: 0.9833088235294117
+reddit_eli5 f1: 0.9770674666410639
+finance accuracy: 0.9994075829383886
+finance f1: 0.9994044206244057
+medicine accuracy: 0.9090909090909091
+medicine f1: 0.9078497775788903
+wiki_csai accuracy: 0.6676557863501483
+wiki_csai f1: 0.6165786265745632
+all accuracy: 0.9697519307278258
+all f1: 0.9651670511127063
